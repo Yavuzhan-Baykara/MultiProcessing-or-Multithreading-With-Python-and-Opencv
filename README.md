@@ -29,7 +29,6 @@
 [Performance]: None
 
 <br>
-<br>
 
 
 
@@ -37,6 +36,7 @@
 It is explained in a simple way; a single process runs each thread. It refers to the ability to execute multiple threads simultaneously.
 Multiprocessing refers to the ability of a system to run multiple processors at the same time. Each processor can run one or more threads.
 
-<img align="left" src="https://res.cloudinary.com/practicaldev/image/fetch/s--XmfUXLmh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/b9a62hzkm6gjaxff5e9g.PNG">
+<img align="centreal" src="https://res.cloudinary.com/practicaldev/image/fetch/s--XmfUXLmh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/b9a62hzkm6gjaxff5e9g.PNG"> <br/>
+
 
 From the diagram above, we can see that in multithreading (right diagram) multiple threads share the same code, data and files, but work on a different register and stack.
